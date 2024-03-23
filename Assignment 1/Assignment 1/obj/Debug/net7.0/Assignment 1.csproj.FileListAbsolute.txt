@@ -1,0 +1,30 @@
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.AssemblyReference.cache
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfo.cs
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.deps.json
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.runtimeconfig.json
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.dll
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.pdb
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.dll
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/refint/Assignment 1.dll
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.pdb
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.genruntimeconfig.cache
+/Users/roh/Desktop/Assignment 1- Group/Assignment 1/Assignment 1/obj/Debug/net7.0/ref/Assignment 1.dll
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.AssemblyReference.cache
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfo.cs
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.dll
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/refint/Assignment 1.dll
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.pdb
+/Users/roh/Downloads/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1
+/Users/roh/Downloads/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.deps.json
+/Users/roh/Downloads/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.runtimeconfig.json
+/Users/roh/Downloads/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.dll
+/Users/roh/Downloads/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.pdb
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.genruntimeconfig.cache
+/Users/roh/Downloads/Assignment 1/Assignment 1/obj/Debug/net7.0/ref/Assignment 1.dll

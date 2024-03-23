@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Assignment_1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="appliance.cshtml">
+      <Generator>RazorTemplatePreprocessor</Generator>
+      <LastGenOutput>appliance.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="appliance.cs">
+      <DependentUpon>appliance.cshtml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>
